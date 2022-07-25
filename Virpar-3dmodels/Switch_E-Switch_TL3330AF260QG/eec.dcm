@@ -1,0 +1,7 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP TL3330AF260QG
+D TL3330AF260QG
+F https://sten-eswitch-13110800-production.s3.amazonaws.com/system/asset/product_line/data_sheet/163/TL3330.pdf
+$ENDCMP
+# end doc library

@@ -1,0 +1,16 @@
+﻿"Symbol";"Value";"Unit";
+"SUPPLIER_NAME";"RS Components";"";
+"TraceParts.PartVersion";"1.0.5";"";
+"SUPPLIER";"Molex";"";
+"TraceParts.PartStatus";"Published";"";
+"TraceParts.PartNumber";"10-07112019-007195";"";
+"TraceParts.PartLanguage";"en";"";
+"DESIGN";"48258 Series Number Right Angle Panel Mount, Version 2.0 Type A USB Connector, Receptacle";"";
+"TraceParts.InstanceId";"10-07112019-007195AMDXTDRMKGLK8DMNEVDH1IQO7";"";
+"TraceParts.PartTitle";"48258 Series Number Right Angle Panel Mount, Version 2.0 Type A USB Connector, Receptacle";"";
+"TraceParts.PartStatusId";"";"";
+"REFERENCE";"48258-0001";"";
+"Buy_Now";"https://uk.rs-online.com/web/p/products/1788766?cm_mmc=en-ds-_-mcad-_-traceparts-_-1788766'";"";
+"TRACEPARTS";"TRACEPARTS";"";
+"rs_stock_number";"1788766";"";
+"TraceParts.ClassPath";"";"";
