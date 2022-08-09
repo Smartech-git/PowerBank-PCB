@@ -4,4 +4,4 @@
 
 
 # PowerBank-PCB-featuring-INJONIC-IP5328P
-Design with KICad V6
+Design with KICad V6.0.6
